@@ -1,0 +1,17 @@
+.oddone {
+    font-family: Verdana, DejaVu Sans , sans-serif;
+}
+
+.oddone.trd{
+    font-size: 24px;
+}
+#scd {
+    color: blue;
+    font-size: 36px;
+}
+
+#n4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
