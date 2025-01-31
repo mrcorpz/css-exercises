@@ -1,0 +1,15 @@
+.fstbutton,
+.scdbutton {
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+
+.fstbutton {
+    color: white;
+    background-color: black;
+}
+
+.scdbutton {
+    color: black;
+    background-color: yellow;
+}
